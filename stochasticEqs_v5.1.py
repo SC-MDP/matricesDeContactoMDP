@@ -190,7 +190,7 @@ for rea in range(nrea):
 
     #Creo archivo. Se fija los nombres ya existentes.
     #Creo archivo.
-    ffnn2 = '_q0'+str(format(q0, '03g'))+'_tass'+str(tass)+'_r0'+str(format(aux_r0, '03g'))
+    ffnn2 = '_q0'+str(format(q0, '03g'))+'_tao'+str(tass)+'_r'+str(format(aux_r0, '03g'))
     if not os.path.exists('results_est%s' %ffnn2):
         os.makedirs('results_est%s' %ffnn2)
 
