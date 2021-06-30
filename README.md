@@ -1,7 +1,6 @@
 # matricesDeContactoMDP
 
 The Python codes presented here have been used to compute the results presented in the following scientific article: https://www.researchgate.net/publication/346701109_An_epidemic_model_for_COVID-19_transmission_in_Argentina_Exploration_of_the_alternating_quarantine_and_massive_testing_strategies
-
 The authors share this software "as is", for reference and reproducibility purposes. Any query can be directed to the corresponding author.
 
 About the code:
